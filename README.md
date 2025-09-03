@@ -36,7 +36,7 @@ Future work may include: automated API endpoints, manuel API endpoint integratio
 
 Creative Commons Attribution-NonCommercial 4.0 International License
 
-Copyright (c) [Year] [Your Name or Username]
+Copyright (c) [Year] [Roy Burson 2025]
 
 This work is based on or derived from contributions by xAI, including but not limited to the Grok-1 model licensed under Apache 2.0.
 
